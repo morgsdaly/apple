@@ -9,7 +9,7 @@ Setup my new Mac after initial login experience which includes iCloud.
 		cd GitHub
 		git clone https://github.com/morgsdaly/apple.git
 		cd apple
-		sudo sh ./setup_my_new_mac.sh
+		./setup_my_new_mac.sh
 		
 Sign in to the Mac App Store
 
