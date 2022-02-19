@@ -2,10 +2,10 @@
 # https://brew.sh
 
 # Install brew
-# /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-# 
-# echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile &&
-# eval "$(/opt/homebrew/bin/brew shellenv)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile &&
+eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew=/opt/homebrew/bin/brew
 echo $brew
