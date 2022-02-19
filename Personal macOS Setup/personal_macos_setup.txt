@@ -1,0 +1,31 @@
+New Apple Mac Setup - Work
+
+Settings
+iCloud
+
+General
+- Default Web browser: BrowserFairy
+- Setup Dock and Menubar, hide dock
+- Mission Control, Group Windows on, Auto spaces off, 
+- Change screenshot location
+- Security, recure password immediately
+- Trackpad, enable App Exposé
+
+
+
+Applications
+==========================
+INSTALLING AUTOPKG
+- open terminal and run git
+- Download and install Autopkg https://github.com/autopkg/autopkg/releases/tag/v2.3.1
+-- run: autopkg list-recipes - build a script I can run to add recipes
+-- run: autopkg run --recipe-list /path/to/recipe_list.txt (from my github)
+
+
+
+- Harvest 
+- Office 365
+
+## Launch Apps
+
+

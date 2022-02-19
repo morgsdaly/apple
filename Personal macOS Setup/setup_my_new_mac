@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Refer to read_me_first.txt brfore running this script.
+
+## Install Apps from the Mac App store - https://github.com/mas-cli/mas
+/bin/bash ./install_from_mas.sh
+
+# Install Homebrew
+/bin/bash ./install_from_cask.sh
+
+# For apps not on cask... I don't have a plan. Refer back to read me.
+
+
+# Reset Dock and add apps, etc... current version of DockUtil is a bit problematic and for just my little machine this effort is not worth it.
+# touch /Users/Shared/.com.morgsdaly.readyToDefineUserDock
+# /bin/bash ./setupDock.sh
+
+## Launch Apps
+open "/Applications/Browser Fairy.app"
+open "/Applications/Amphetamine.app"
+open "/Applications/TextExpander.app"
+open "/Applications/Rectangle.app"
+open "/Applications/WiFi Signal.app"
+open "/Applications/Microsoft Teams.app"
+open "/Applications/1Password.app"
+open "/Applications/OneDrive.app"
+open "/Applications/Paste.app"
+open "/Applications/PowerShell.app"
+open "https://miro.com/apps/"
+open "https://desktop.github.com"
