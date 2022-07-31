@@ -9,12 +9,10 @@ echo $mas
 # $mas signin morgs1@me.com - Not supported anymore.
 
 # Install from Mac App Store
-$mas install 506189836 	# Harvest
 $mas install 803453959 	# Slack for Desktop
 $mas install 1274495053 # Microsoft To Do
 $mas install 1499080593	# BrowserFairy
 $mas install 1037126344	# Apple Configurator 2 
-$mas install 1333542190	# 1Password 7 - Password Manager 
 $mas install 1569813296	# 1Password for Safari  
 $mas install 937984704	# Amphetamine
 $mas install 1295203466	# Microsoft Remote Desktop

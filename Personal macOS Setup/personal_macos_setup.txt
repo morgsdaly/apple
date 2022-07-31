@@ -8,7 +8,7 @@ General
 - Setup Dock and Menubar, hide dock
 - Mission Control, Group Windows on, Auto spaces off, 
 - Change screenshot location
-- Security, recure password immediately
+- Security, require password immediately
 - Trackpad, enable App Exposé
 
 
@@ -22,8 +22,6 @@ INSTALLING AUTOPKG
 -- run: autopkg run --recipe-list /path/to/recipe_list.txt (from my github)
 
 
-
-- Harvest 
 - Office 365
 
 ## Launch Apps
